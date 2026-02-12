@@ -1,0 +1,1001 @@
+﻿id_aluno,curso,disciplina,nota_1,nota_2,nota_final,faltas,status
+A10000,DS,Matemática,5.8,4.0,4.7 ,10,Reprovado
+A10001,ADS,POO,"7,498790267234377",6.9,7.1,10,Aprovado
+A10002,GTI,Redes,5.9,3.3,"4,4",15,Reprovado
+A10003,Eng. Computação,Algoritmos,5.7,9.0,7.7,13,Reprovado
+A10004,ADS,Banco de Dados,4.9,7.5,6.4,18,Trancado
+A10005,DS,Banco de Dados,8.5,10.0,"9,4",21,Reprovado
+A10006,ADS,Banco de Dados,5.3,3.9,4.5,3,Reprovado
+A10007,ADS,Banco de Dados,10.0,7.5,8.5,4,Aprovado
+A10008,ADS,Algoritmos,3.9,6.0,5.1,21,Reprovado
+A10009,Eng. Computação,Matemática,8.8,2.8,5.2,24,Reprovado
+A10010,ADS,Matemática,2.1,6.2,4.6,18,Reprovado
+A10011,Eng. Computação,Algoritmos,6.2,7.3,6.8,16,Reprovado
+A10012,Eng. Computação,Redes,5.3,10.0,8.1,17,Reprovado
+A10013,ADS,Algoritmos,"7,37894085318731","4,890127460435828",5.9,7,Reprovado
+A10014,GTI,Banco de Dados,8.1,7.0,7.5,3,Aprovado
+A10015,DS,Matemática,10.0,6.7,8.0 ,22,Reprovado
+A10016,ADS,Mobile,5.4,5.6,5.5,17,Reprovado
+A10017,ADS,Redes,5.0,5.8,5.5,10,Reprovado
+A10018,ADS,POO,8.3,7.6,7.9,13,Reprovado
+A10019,DS,Matemática,6.2,5.8,6.0 ,12,Reprovado
+A10020,DS,Banco de Dados,5.2,5.5,5.4,23,Reprovado
+A10021,ADS,Matemática,5.6,4.9,5.2,15,Reprovado
+A10022,ADS,Banco de Dados,5.1,2.7,3.6,11,Reprovado
+A10023,Eng. Computação,Banco de Dados,3.2,8.1,6.1,8,Reprovado
+A10024,ADS,Matemática,9.6,4.9,6.8,6,Reprovado
+A10025,DS,Matemática,7.5,8.7,8.2,9,Trancado
+A10026,ADS,Matemática,3.3,"8,774182577693804",6.6,16,Reprovado
+A10027,DS,Algoritmos,9.5,10.0,9.8,17,Reprovado
+A10028,Eng. Computação,Matemática,6.9,7.0,6.9,24,Reprovado
+A10029,ADS,POO,"6,076612676278952",7.2,6.8,6,Reprovado
+A10030,ADS,Redes,7.6,7.3,7.4,2,Aprovado
+A10031,GTI,Banco de Dados,5.6,6.6,6.2,14,Reprovado
+A10032,ADS,Matemática,3.9,8.6,6.7,15,Reprovado
+A10033,ADS,POO,5.4219845282604116 ,5.8,5.7,20,Reprovado
+A10034,DS,Mobile,6.4,7.2,6.9,16,Reprovado
+A10035,ADS,Matemática,4.7,5.8,5.3,12,Reprovado
+A10036,ADS,Algoritmos,"7,517273062710555",3.1,"4,9",2,Reprovado
+A10037,DS,Banco de Dados,9.1,7.6,"8,2",19,Reprovado
+A10038,GTI,POO,5.8,0.0,2.3,19,Reprovado
+A10039,ADS,Matemática,1.9,7.2,5.1,22,Reprovado
+A10040,DS,POO,6.2,8.4,"7,5",4,Aprovado
+A10041,DS,Banco de Dados,"4,79966653806295",7.3,6.3,8,Reprovado
+A10042,GTI,POO,6.1,4.3,5.0,22,Reprovado
+A10043,ADS,POO,6.0,9.4,"8,1",17,Reprovado
+A10044,ADS,Matemática,4.8,10.0,7.9,10,Aprovado
+A10045,DS,Matemática,3.8,7.5,6.0,10,Reprovado
+A10046,DS,Redes,6.5,"10,0",8.6,15,Reprovado
+A10047,DS,Algoritmos,5.0,10.0,8.0,7,Aprovado
+A10048,ADS,Redes,"9,987535352483228",4.6,6.7,1,Reprovado
+A10049,GTI,Algoritmos,"6,992714212252465",4.0,"5,2",22,Reprovado
+A10050,DS,Algoritmos,5.0,7.6350126794365405 ,6.6,20,Reprovado
+A10051,ADS,Redes,5.6,0.0,2.2,9,Reprovado
+A10052,ADS,Banco de Dados,6.2,5.5,5.8,5,Reprovado
+A10053,GTI,POO,"6,695924099368476",4.6,5.4,3,Reprovado
+A10054,DS,Mobile,7.7,5.6,6.4,20,Reprovado
+A10055,ADS,Redes,8.789877732990533 ,3.3,"5,5",4,Reprovado
+A10056,GTI,Redes,6.4,5.7,5.9,22,Reprovado
+A10057,GTI,Banco de Dados,7.4,"7,333030172724979",7.4,10,Aprovado
+A10058,GTI,POO,7.4,"9,79663650702121","8,8",11,Reprovado
+A10059,DS,Matemática,6.7,7.0,6.9,15,Reprovado
+A10060,GTI,Redes,6.1,2.1,3.7,19,Reprovado
+A10061,ADS,Mobile,6.8,6.1,6.4,20,Reprovado
+A10062,ADS,POO,5.2,9.1,7.6,13,Reprovado
+A10063,GTI,Redes,4.2,5.5,5.0,13,Reprovado
+A10064,ADS,Matemática,9.4,7.5,8.3,19,Reprovado
+A10065,GTI,Redes,6.9,8.7,8.0,19,Reprovado
+A10066,DS,Matemática,7.0,6.4,6.6,14,Reprovado
+A10067,ADS,Algoritmos,6.1,6.8,"6,5",7,Reprovado
+A10068,GTI,Algoritmos,7.5,7.3,7.4,4,Aprovado
+A10069,GTI,Redes,6.1,5.1,5.5,8,Trancado
+A10070,ADS,Banco de Dados,3.5,5.6,"4,7",20,Trancado
+A10071,GTI,Algoritmos,5.4,4.1,4.6,15,Reprovado
+A10072,Eng. Computação,Redes,7.7,"4,932562869334581",6.0 ,23,Reprovado
+A10073,ADS,Matemática,5.3,7.8,6.8,2,Reprovado
+A10074,GTI,POO,2.8,7.2,5.4,11,Reprovado
+A10075,ADS,Matemática,5.9,3.5,4.5,6,Reprovado
+A10076,ADS,Mobile,3.0,3.9,3.6,16,Reprovado
+A10077,ADS,Algoritmos,5.9,4.7,5.2,14,Reprovado
+A10078,DS,Redes,8.9,2.9,5.3 ,14,Reprovado
+A10079,ADS,Algoritmos,"3,95653962618607",6.6,5.5,11,Reprovado
+A10080,ADS,Matemática,7.8,4.6,5.9,20,Reprovado
+A10081,DS,Matemática,9.9,7.1,"8,3",1,Aprovado
+A10082,ADS,POO,"9,046025997801411",8.2,8.6,7,Aprovado
+A10083,ADS,Banco de Dados,"6,044756430515195",2.3,3.8,21,Reprovado
+A10084,ADS,Redes,4.7,4.6,4.6,4,Reprovado
+A10085,ADS,POO,6.8,2.6,4.3,2,Reprovado
+A10086,GTI,Mobile,6.9,2.0,3.9,0,Reprovado
+A10087,ADS,Redes,8.3,7.2,7.7,15,Reprovado
+A10088,ADS,Mobile,6.6,6.5,6.5,9,Reprovado
+A10089,Eng. Computação,Banco de Dados,7.3,"4,755128286568778",5.8,9,Reprovado
+A10090,Eng. Computação,Redes,4.7,"3,909305475173822",4.2,10,Reprovado
+A10091,DS,Redes,8.0,3.6,5.4,11,Reprovado
+A10092,Eng. Computação,POO,3.9,"6,3883358771359715",5.4,7,Reprovado
+A10093,GTI,Algoritmos,5.2,5.5,5.4,4,Reprovado
+A10094,GTI,Redes,7.7,4.0,5.5,8,Reprovado
+A10095,GTI,Banco de Dados,9.1,"6,918494996006713",7.8,10,Aprovado
+A10096,DS,Redes,7.9,6.6,7.1,14,Reprovado
+A10097,GTI,Redes,6.4,"3,8646333324693645",4.9,22,Reprovado
+A10098,ADS,Redes,6.5,5.0,5.6,16,Reprovado
+A10099,DS,Redes,4.7,7.9,6.6,10,Reprovado
+A10100,DS,Banco de Dados,5.761147802882281 ,7.6,6.9,12,Reprovado
+A10101,DS,POO,2.6683850068366826 ,4.6,3.8,16,Reprovado
+A10102,ADS,Algoritmos,9.8,9.7,9.7,22,Reprovado
+A10103,ADS,Banco de Dados,10.0 ,5.6,7.4,6,Aprovado
+A10104,ADS,Banco de Dados,2.6,7.7,"5,7",8,Reprovado
+A10105,GTI,Mobile,3.6,3.7,3.7 ,17,Reprovado
+A10106,ADS,Algoritmos,"9,224763324397275",5.7,7.1,22,Reprovado
+A10107,ADS,POO,4.9,4.0,4.4,17,Trancado
+A10108,ADS,Matemática,9.3,2.4,5.1,9,Reprovado
+A10109,ADS,POO,8.0,5.9,6.7 ,11,Reprovado
+A10110,DS,Matemática,5.9,5.3,5.5,17,Reprovado
+A10111,Eng. Computação,Mobile,8.4,8.4,8.4,20,Reprovado
+A10112,ADS,Mobile,6.4,"4,729448122116011",5.4,8,Reprovado
+A10113,GTI,Banco de Dados,6.4,6.6,6.5,8,Reprovado
+A10114,ADS,POO,7.6,5.1,"6,1",9,Reprovado
+A10115,ADS,Matemática,8.084190660725216 ,"3,8591531878826033","5,5",0,Reprovado
+A10116,DS,POO,8.5,7.8,8.1,10,Aprovado
+A10117,DS,Matemática,"10,0",4.6,6.8,13,Reprovado
+A10118,DS,POO,7.229261907927597 ,5.0,5.9,22,Reprovado
+A10119,GTI,Banco de Dados,9.1,3.4,5.7,9,Reprovado
+A10120,Eng. Computação,Matemática,9.0,2.285139846861906 ,5.0,13,Reprovado
+A10121,ADS,POO,7.9,7.0,"7,3",18,Reprovado
+A10122,ADS,Redes,5.4,5.8,5.6,9,Reprovado
+A10123,ADS,Mobile,8.7,8.0,8.3,16,Reprovado
+A10124,DS,Mobile,7.391682059074905 ,7.1,7.2,1,Aprovado
+A10125,ADS,Matemática,3.9,3.3,3.5,21,Reprovado
+A10126,ADS,Mobile,"8,52736211266564",6.0,7.0,13,Reprovado
+A10127,GTI,Mobile,3.2,5.9,4.9,17,Reprovado
+A10128,ADS,Redes,7.8,8.2,8.1,1,Aprovado
+A10129,ADS,Algoritmos,5.4,8.7,7.4 ,19,Reprovado
+A10130,ADS,POO,6.8,2.2,4.0 ,18,Reprovado
+A10131,ADS,Matemática,3.7,8.4,6.5,23,Reprovado
+A10132,DS,Mobile,5.052154548664458 ,8.1,"6,9",7,Reprovado
+A10133,GTI,POO,5.5,4.2,4.7,5,Reprovado
+A10134,ADS,POO,6.2,5.9,6.0,19,Reprovado
+A10135,ADS,Redes,5.3,"1,3729745581762183",2.9,6,Reprovado
+A10136,DS,POO,7.2,5.9,6.4,24,Reprovado
+A10137,GTI,Mobile,7.5,"3,6904068875098157",5.2 ,12,Reprovado
+A10138,DS,Matemática,5.6,7.1,6.5,1,Reprovado
+A10139,GTI,POO,6.6,6.9,6.8,21,Reprovado
+A10140,ADS,Redes,7.6,5.8,6.5,6,Reprovado
+A10141,Eng. Computação,Matemática,2.0,6.4,4.7,0,Reprovado
+A10142,GTI,Matemática,7.4,4.3,5.5,5,Reprovado
+A10143,ADS,Matemática,5.2,3.5,4.2,15,Reprovado
+A10144,ADS,Mobile,1.2,"10,0",6.5,7,Reprovado
+A10145,ADS,Redes,5.7,8.3,7.2,12,Reprovado
+A10146,ADS,Banco de Dados,4.5,6.3,5.6,22,Reprovado
+A10147,Eng. Computação,Algoritmos,5.6,5.5,5.5,17,Reprovado
+A10148,Eng. Computação,POO,7.4,10.0,9.0,13,Reprovado
+A10149,ADS,POO,8.2,9.7,9.1,17,Reprovado
+A10150,ADS,POO,9.1,5.4,6.9,3,Reprovado
+A10151,DS,Banco de Dados,9.2,3.9,6.0,14,Reprovado
+A10152,ADS,Matemática,4.4,6.1,"5,4",4,Reprovado
+A10153,GTI,Matemática,8.9,5.2,6.7,20,Reprovado
+A10154,DS,Algoritmos,4.1,3.9163216216157344 ,4.0,13,Reprovado
+A10155,DS,Redes,8.6,9.0,8.9 ,15,Reprovado
+A10156,DS,Banco de Dados,7.6,7.2,7.3,14,Reprovado
+A10157,DS,Banco de Dados,6.8,5.1,"5,8",10,Reprovado
+A10158,Eng. Computação,Mobile,4.7,5.1,4.9,1,Reprovado
+A10159,ADS,Matemática,8.9,6.028255161442577 ,7.2,22,Reprovado
+A10160,Eng. Computação,Banco de Dados,4.5,4.9,"4,8",23,Reprovado
+A10161,ADS,Banco de Dados,6.5,4.7,5.4,17,Reprovado
+A10162,ADS,POO,6.6,10.0,8.7,3,Aprovado
+A10163,ADS,Matemática,3.1,4.0,3.6,14,Reprovado
+A10164,DS,Mobile,6.8,1.1,3.4,11,Reprovado
+A10165,ADS,Redes,4.3,7.4,"6,2",2,Reprovado
+A10166,DS,Algoritmos,9.381661197649755 ,8.5,8.8,3,Aprovado
+A10167,GTI,Redes,10.0,"6,3391275641285665",7.8,20,Reprovado
+A10168,ADS,Mobile,5.0,2.5,3.5,15,Reprovado
+A10169,DS,POO,5.7,5.7,5.7,5,Reprovado
+A10170,Eng. Computação,Algoritmos,6.8,4.9,5.7,1,Reprovado
+A10171,DS,Redes,"2,3788450255887366",8.9,6.3,21,Reprovado
+A10172,ADS,Matemática,9.8,4.1,6.4,8,Reprovado
+A10173,Eng. Computação,Matemática,5.9,"6,507034753194159",6.2,11,Reprovado
+A10174,DS,Algoritmos,5.7,7.3,6.7,11,Reprovado
+A10175,ADS,Algoritmos,7.9,4.1,5.6,23,Reprovado
+A10176,ADS,Algoritmos,6.669943196162573 ,4.7,5.5,13,Trancado
+A10177,GTI,Banco de Dados,6.8,7.0,6.9,16,Reprovado
+A10178,Eng. Computação,Mobile,8.2,0.0,"3,3",8,Reprovado
+A10179,ADS,Matemática,"6,24991380405469",9.0,7.9 ,11,Reprovado
+A10180,ADS,Matemática,4.3,3.8,4.0,9,Reprovado
+A10181,Eng. Computação,Mobile,8.9,6.1,7.2,10,Aprovado
+A10182,ADS,POO,5.3,3.0,3.9,1,Reprovado
+A10183,Eng. Computação,Matemática,5.4,8.9,"7,5",15,Reprovado
+A10184,ADS,Redes,7.0,6.001137267518602 ,6.4,0,Reprovado
+A10185,GTI,POO,3.9,6.470576275434347 ,5.4,21,Reprovado
+A10186,ADS,Redes,7.0,7.2,7.1,0,Aprovado
+A10187,Eng. Computação,Algoritmos,8.4,8.4,8.4,21,Reprovado
+A10188,DS,Matemática,"9,659807207405017","3,538841680848796",6.0,1,Reprovado
+A10189,Eng. Computação,Redes,8.0,5.4,6.4,11,Reprovado
+A10190,DS,Redes,"8,646045689659312",8.8,"8,7",22,Reprovado
+A10191,ADS,Algoritmos,5.2,5.0,5.1,22,Reprovado
+A10192,ADS,POO,8.2,9.0,8.7,19,Reprovado
+A10193,GTI,Redes,6.1,6.5,6.3,17,Reprovado
+A10194,GTI,Matemática,8.8,5.1,6.6,11,Reprovado
+A10195,Eng. Computação,POO,6.7,7.5,7.2,22,Reprovado
+A10196,ADS,POO,"8,655132767212129",5.7,"6,9",0,Reprovado
+A10197,DS,Mobile,"6,822597981472453",7.9,"7,5",10,Aprovado
+A10198,Eng. Computação,Matemática,5.0,4.9,5.0,1,Reprovado
+A10199,ADS,Matemática,6.579156569973956 ,7.9,7.4,11,Reprovado
+A10200,Eng. Computação,Algoritmos,5.8,7.0,6.5,1,Reprovado
+A10201,ADS,Algoritmos,"9,094447079989877",5.3,6.8,16,Reprovado
+A10202,DS,Banco de Dados,3.8,2.0,2.7,24,Reprovado
+A10203,ADS,Matemática,3.1,7.1,5.5,5,Reprovado
+A10204,ADS,POO,7.1,"8,365174116587273",7.9,15,Reprovado
+A10205,ADS,Banco de Dados,5.9,"6,422870652184291",6.2,18,Reprovado
+A10206,Eng. Computação,Matemática,4.2,"1,0619568205416172","2,3",5,Reprovado
+A10207,DS,Algoritmos,"6,429664747548055",8.5,7.7,6,Aprovado
+A10208,ADS,Algoritmos,"7,032519924931907",6.9,6.9,18,Reprovado
+A10209,Eng. Computação,Matemática,9.0,7.4,8.0,19,Reprovado
+A10210,GTI,Banco de Dados,2.8,"5,824945850180801",4.6,16,Reprovado
+A10211,Eng. Computação,Algoritmos,6.9,1.7,3.8,5,Reprovado
+A10212,ADS,Algoritmos,9.8,7.3,8.3,14,Reprovado
+A10213,ADS,Mobile,9.7,5.5,7.2,21,Reprovado
+A10214,DS,Redes,6.7,4.4,5.3,8,Reprovado
+A10215,ADS,Matemática,5.318151113219772 ,"9,83471205683217",8.0,1,Aprovado
+A10216,GTI,Mobile,6.0,"7,2950101960293",6.8,4,Reprovado
+A10217,ADS,Redes,4.5,6.5,5.7,20,Reprovado
+A10218,ADS,Matemática,5.6,4.1,4.7,22,Reprovado
+A10219,ADS,Mobile,6.7,3.8,5.0,4,Reprovado
+A10220,Eng. Computação,Mobile,7.4,7.1,"7,2",11,Reprovado
+A10221,ADS,Matemática,8.2,1.6,4.2,9,Reprovado
+A10222,ADS,POO,"6,278808181273511",7.2,6.8,3,Reprovado
+A10223,GTI,Banco de Dados,"6,130904464005125",7.3,"6,9",11,Reprovado
+A10224,DS,Matemática,8.3,9.0,8.7,14,Reprovado
+A10225,DS,Mobile,5.8,8.2,7.2,9,Aprovado
+A10226,DS,POO,7.9,8.5,8.3,17,Reprovado
+A10227,ADS,Mobile,3.2,4.7,4.1,23,Reprovado
+A10228,ADS,Banco de Dados,7.4,2.8,4.6,4,Reprovado
+A10229,DS,POO,10.0,6.4,7.8,12,Reprovado
+A10230,Eng. Computação,Matemática,4.6,6.97575191090341 ,6.0,3,Reprovado
+A10231,GTI,Redes,9.4,8.2,8.7,8,Aprovado
+A10232,ADS,Banco de Dados,7.9,9.3,8.7 ,17,Reprovado
+A10233,ADS,Algoritmos,8.2,3.4,5.4,2,Reprovado
+A10234,ADS,Matemática,7.8,7.9,7.9 ,23,Reprovado
+A10235,DS,Matemática,5.2,1.1,2.7,10,Reprovado
+A10236,ADS,Matemática,3.9,6.6055159250890565 ,"5,5",3,Reprovado
+A10237,ADS,POO,7.4,7.5,7.5,8,Aprovado
+A10238,ADS,Algoritmos,"6,25441386574585",2.6,4.1,11,Reprovado
+A10239,GTI,POO,3.7,7.4,5.9,9,Reprovado
+A10240,ADS,Redes,5.6,3.7,"4,4",9,Reprovado
+A10241,GTI,POO,4.4,5.1,4.8,8,Reprovado
+A10242,DS,Matemática,10.0,7.9,8.7,9,Aprovado
+A10243,ADS,Mobile,8.2,5.301103942029744 ,6.5 ,8,Reprovado
+A10244,GTI,Algoritmos,4.5,5.3,5.0,0,Reprovado
+A10245,ADS,Algoritmos,7.5,6.7,7.0,21,Reprovado
+A10246,ADS,POO,4.2,7.8,"6,3",15,Reprovado
+A10247,GTI,Mobile,2.9,6.0,4.7,13,Reprovado
+A10248,GTI,Mobile,5.1,9.5,7.7,12,Reprovado
+A10249,DS,POO,"6,1987135492513845",5.3,5.6,5,Reprovado
+A10250,GTI,Banco de Dados,7.3,8.7,8.1,13,Reprovado
+A10251,DS,Redes,8.2,7.2,7.6,7,Aprovado
+A10252,ADS,POO,5.8,7.5,6.8,22,Reprovado
+A10253,GTI,Matemática,7.8,3.4,5.2,22,Reprovado
+A10254,DS,Mobile,"3,3048848409722273",8.7,6.5,17,Reprovado
+A10255,ADS,Redes,9.4,6.3,7.5,19,Reprovado
+A10256,ADS,POO,3.4,10.0,7.3,0,Aprovado
+A10257,GTI,Redes,5.5,6.6,"6,1",11,Reprovado
+A10258,ADS,Banco de Dados,5.1,"5,9556222391328815",5.6,10,Reprovado
+A10259,ADS,Mobile,3.6,4.9,"4,4",-2,Reprovado
+A10260,GTI,Banco de Dados,7.2,6.0,6.5,22,Reprovado
+A10261,Eng. Computação,Banco de Dados,9.9,9.1,9.4,3,Aprovado
+A10262,Eng. Computação,Mobile,2.9,7.7,5.8,24,Reprovado
+A10263,ADS,Matemática,1.9,6.6,4.8,5,Reprovado
+A10264,GTI,Banco de Dados,"4,750463570993633",7.9,6.6,21,Reprovado
+A10265,ADS,POO,6.0,5.0,5.4,24,Reprovado
+A10266,ADS,POO,8.0,4.9,6.1,12,Reprovado
+A10267,DS,Redes,5.5,4.6,5.0,23,Reprovado
+A10268,ADS,POO,2.8,8.2,6.0,21,Reprovado
+A10269,ADS,POO,9.066219434624097 ,8.4,8.7,12,Reprovado
+A10270,Eng. Computação,Redes,4.6706027880560335 ,4.2,4.4,5,Reprovado
+A10271,DS,Algoritmos,7.8,4.5,"5,8",21,Reprovado
+A10272,DS,Mobile,4.2,5.7,5.1,-5,Reprovado
+A10273,Eng. Computação,POO,6.1,3.7,4.7,20,Reprovado
+A10274,DS,Redes,7.2,6.5,6.8,2,Reprovado
+A10275,ADS,Banco de Dados,4.8,9.2,7.4,24,Reprovado
+A10276,GTI,Banco de Dados,7.3,6.8,7.0,14,Reprovado
+A10277,ADS,Matemática,5.8,8.3,7.3,10,Aprovado
+A10278,ADS,POO,5.6,3.1,4.1,1,Reprovado
+A10279,DS,Mobile,9.5,4.892670626536039 ,6.7,22,Trancado
+A10280,GTI,Redes,7.2,1.8,4.0,16,Reprovado
+A10281,ADS,Matemática,7.5,5.9,6.5,22,Reprovado
+A10282,ADS,Matemática,8.0,10.0,9.2,1,Aprovado
+A10283,ADS,Redes,7.7,9.9,9.0,20,Reprovado
+A10284,Eng. Computação,Redes,7.2,6.9,7.0,0,Aprovado
+A10285,GTI,Redes,9.0,6.2,7.3,4,Aprovado
+A10286,GTI,Redes,4.6,7.1,6.1,19,Reprovado
+A10287,GTI,Mobile,"6,796318927475596",3.406856414231085 ,"4,8",16,Reprovado
+A10288,DS,Redes,5.9,6.5,6.3,0,Reprovado
+A10289,DS,Mobile,6.8,1.3,3.5,6,Reprovado
+A10290,GTI,Mobile,"5,103241104844644",0.37524745272224624 ,2.3,2,Reprovado
+A10291,Eng. Computação,Mobile,3.3,5.2,4.4,15,Reprovado
+A10292,Eng. Computação,Banco de Dados,8.1,10.0,9.2,15,Reprovado
+A10293,Eng. Computação,Algoritmos,10.0,9.7,9.8,11,Reprovado
+A10294,DS,Matemática,8.7,"8,518865583790276","8,6",8,Aprovado
+A10295,Eng. Computação,POO,8.2,6.0,6.9,24,Reprovado
+A10296,ADS,Banco de Dados,7.0,9.4,8.5,13,Reprovado
+A10297,Eng. Computação,Algoritmos,6.2,4.9,"5,4",11,Reprovado
+A10298,Eng. Computação,Matemática,6.3,3.4,4.6,24,Reprovado
+A10299,Eng. Computação,Banco de Dados,6.3,4.7450875087675595 ,5.4,15,Reprovado
+A10300,DS,Matemática,5.2,2.5,3.6,16,Reprovado
+A10301,ADS,Mobile,"3,1903585914576236",10.0,7.3,11,Reprovado
+A10302,ADS,Mobile,"6,897675030100845",7.2,7.1,3,Aprovado
+A10303,ADS,Redes,5.9,4.1,4.8,16,Reprovado
+A10304,DS,Mobile,8.8,"5,825744010729407",7.0,0,Aprovado
+A10305,ADS,Banco de Dados,8.0,5.8,6.6 ,24,Reprovado
+A10306,GTI,Matemática,2.4,9.2,6.5,20,Reprovado
+A10307,GTI,POO,9.9,"10,0",10.0,16,Reprovado
+A10308,GTI,Matemática,5.5,8.4,7.2,10,Aprovado
+A10309,Eng. Computação,Mobile,5.8,7.6,6.9,18,Reprovado
+A10310,DS,Matemática,3.1,6.7,5.3,22,Reprovado
+A10311,DS,Algoritmos,7.0,6.3,6.6,17,Reprovado
+A10312,GTI,Matemática,7.3,6.2,"6,7",19,Reprovado
+A10313,DS,Banco de Dados,"9,927890721061104",6.3,7.7,1,Aprovado
+A10314,ADS,Algoritmos,8.2,"5,564676104446885",6.6,8,Reprovado
+A10315,ADS,Redes,5.5,5.0,5.2,8,Reprovado
+A10316,Eng. Computação,Redes,3.0,3.7,3.4,11,Reprovado
+A10317,DS,Matemática,5.3,5.5,5.4,12,Reprovado
+A10318,DS,POO,"8,587879273477007",3.1,5.3,15,Reprovado
+A10319,GTI,Banco de Dados,5.7,4.8,5.1,12,Reprovado
+A10320,ADS,POO,4.3,5.8,5.2,22,Reprovado
+A10321,GTI,Algoritmos,6.8,6.6,6.7,13,Reprovado
+A10322,ADS,POO,"5,830889960121625",6.5,6.3,6,Reprovado
+A10323,GTI,Algoritmos,5.6,7.1,6.5,1,Reprovado
+A10324,GTI,POO,5.0,6.9,"6,1",11,Reprovado
+A10325,GTI,Redes,6.7,9.9,8.7 ,23,Reprovado
+A10326,GTI,Banco de Dados,8.6,9.6,9.2,16,Reprovado
+A10327,Eng. Computação,POO,7.5,5.2,6.1,23,Reprovado
+A10328,DS,Matemática,2.6,8.0,5.9,4,Reprovado
+A10329,Eng. Computação,Algoritmos,9.6,5.6,7.2,19,Reprovado
+A10330,GTI,Matemática,8.0,2.3226547308913283 ,4.6,9,Reprovado
+A10331,GTI,Banco de Dados,7.1,"7,4629807252543445",7.3,17,Trancado
+A10332,ADS,Matemática,7.3,4.8,5.8,2,Reprovado
+A10333,ADS,Redes,7.7,4.5,5.8,12,Reprovado
+A10334,GTI,Redes,7.3,4.7,5.7,12,Reprovado
+A10335,ADS,Mobile,4.6,"4,3399441131723036",4.4,9,Trancado
+A10336,DS,Banco de Dados,7.5,10.0,9.0,1,Trancado
+A10337,GTI,POO,6.8,3.3,4.7,15,Reprovado
+A10338,Eng. Computação,Redes,7.3,5.7,6.3,3,Reprovado
+A10339,Eng. Computação,POO,5.2,2.3,3.5,18,Reprovado
+A10340,ADS,POO,8.7,4.4,6.1 ,4,Reprovado
+A10341,ADS,Algoritmos,5.4,3.1,4.0,6,Reprovado
+A10342,DS,Matemática,6.4,7.1,6.8,8,Reprovado
+A10343,ADS,POO,5.5,2.6,3.8,4,Reprovado
+A10344,ADS,Mobile,"4,504865198987915",9.1,7.3,7,Aprovado
+A10345,DS,Banco de Dados,7.931327326507696 ,3.1,5.0,1,Reprovado
+A10346,Eng. Computação,Banco de Dados,"5,498005586349766","3,7142388241141444",4.4,21,Reprovado
+A10347,DS,Algoritmos,6.8,"7,483885614327612","7,2",23,Reprovado
+A10348,GTI,Mobile,3.7,10.0,7.5,24,Reprovado
+A10349,ADS,Matemática,2.9,5.0,4.2,19,Reprovado
+A10350,GTI,Mobile,10.0,7.3,8.4,19,Reprovado
+A10351,GTI,Banco de Dados,9.7,3.7,6.1,6,Reprovado
+A10352,GTI,Mobile,5.3,"4,876272301215825",5.0,3,Reprovado
+A10353,ADS,Matemática,7.4,5.8,6.4,20,Reprovado
+A10354,Eng. Computação,Redes,5.6,4.2,4.8,14,Reprovado
+A10355,DS,POO,7.8,8.5,8.2,17,Reprovado
+A10356,DS,POO,4.3,7.8,6.4,1,Reprovado
+A10357,Eng. Computação,Banco de Dados,4.1,4.8,4.6,13,Reprovado
+A10358,ADS,Banco de Dados,6.5,0.6,"3,0",9,Reprovado
+A10359,ADS,Matemática,7.3,4.4,5.5,4,Reprovado
+A10360,DS,Mobile,5.1,8.8,7.3,11,Reprovado
+A10361,Eng. Computação,Matemática,3.9,5.725371962906638 ,5.0,9,Reprovado
+A10362,GTI,Algoritmos,9.0,8.3,"8,6",17,Reprovado
+A10363,ADS,Banco de Dados,"5,571319255342006",9.6,8.0,5,Aprovado
+A10364,DS,Banco de Dados,5.6,7.3,6.6,21,Reprovado
+A10365,ADS,Banco de Dados,9.0,8.5,"8,7",11,Reprovado
+A10366,GTI,Matemática,10.0,4.7,6.8,23,Reprovado
+A10367,ADS,Matemática,7.2,8.6,8.0,0,Aprovado
+A10368,Eng. Computação,Mobile,8.3,5.5,6.6 ,6,Reprovado
+A10369,GTI,Redes,4.2,4.3,4.3,11,Reprovado
+A10370,Eng. Computação,Banco de Dados,8.0,10.0 ,9.2,6,Aprovado
+A10371,ADS,Redes,8.2,5.955883090529474 ,6.9,8,Reprovado
+A10372,ADS,Matemática,4.6,4.4,4.5,19,Reprovado
+A10373,Eng. Computação,Mobile,5.4,6.9,6.3,14,Reprovado
+A10374,ADS,Matemática,8.9,3.6,5.7,22,Trancado
+A10375,GTI,Algoritmos,5.9,3.2,4.3,11,Reprovado
+A10376,ADS,POO,9.3,"5,538408902891471",7.1,12,Reprovado
+A10377,DS,POO,"6,538732022792235",2.8,4.3,21,Reprovado
+A10378,ADS,Matemática,6.4,5.0,5.6,3,Reprovado
+A10379,ADS,POO,"8,452591553051745",3.1,5.2,9,Reprovado
+A10380,DS,POO,10.0,8.2,8.9,23,Reprovado
+A10381,ADS,Mobile,"7,819507896062911",9.7,9.0,2,Aprovado
+A10382,ADS,POO,6.8,2.9,4.5,23,Reprovado
+A10383,DS,Mobile,9.0,"10,0",9.6,4,Aprovado
+A10384,GTI,Algoritmos,9.2,7.7,8.3,3,Aprovado
+A10385,ADS,Banco de Dados,"7,569265815090455",6.5,6.9,18,Reprovado
+A10386,GTI,Banco de Dados,7.3,2.6,"4,5",14,Reprovado
+A10387,Eng. Computação,Banco de Dados,7.9,2.4,4.6,22,Reprovado
+A10388,ADS,Mobile,3.6,5.9,5.0,6,Reprovado
+A10389,GTI,Mobile,4.4,5.6,"5,1",21,Reprovado
+A10390,DS,Mobile,"6,981551121989939",5.4,6.0,2,Reprovado
+A10391,ADS,Algoritmos,5.0,6.1,5.6,24,Reprovado
+A10392,ADS,Redes,6.6,4.4,"5,3",15,Reprovado
+A10393,GTI,Mobile,6.9,5.5,6.1,14,Reprovado
+A10394,DS,Mobile,4.5,6.0,5.4,17,Reprovado
+A10395,ADS,Banco de Dados,7.7,10.0,9.1,2,Aprovado
+A10396,DS,Matemática,2.7,1.0,1.7,13,Reprovado
+A10397,DS,POO,"5,856635262967045","6,8257613103133306",6.4,0,Reprovado
+A10398,ADS,POO,3.4,6.2,"5,1",6,Reprovado
+A10399,GTI,Algoritmos,5.9,6.0,"6,0",1,Reprovado
+A10400,Eng. Computação,POO,"8,412491081920479",6.8,7.4,9,Aprovado
+A10401,ADS,Redes,5.0,10.0,"8,0",23,Trancado
+A10402,GTI,Banco de Dados,2.5,6.8,5.0,24,Reprovado
+A10403,GTI,Algoritmos,6.0,2.7,4.0,15,Reprovado
+A10404,ADS,POO,4.8,6.8,6.0,11,Reprovado
+A10405,ADS,POO,6.5,5.6,6.0,17,Reprovado
+A10406,ADS,Matemática,6.0,4.6,5.2,5,Reprovado
+A10407,ADS,Banco de Dados,6.9,6.4114543693545185 ,6.6,16,Reprovado
+A10408,ADS,Algoritmos,8.8,5.7,"7,0",7,Aprovado
+A10409,DS,Banco de Dados,"5,7458862952143255","5,500353232556701",5.6,20,Reprovado
+A10410,Eng. Computação,Algoritmos,"6,673052182684687",5.8,6.1,8,Trancado
+A10411,ADS,POO,"5,853838483469751",3.4,4.4,18,Reprovado
+A10412,ADS,Banco de Dados,8.5,7.6,"8,0",1,Aprovado
+A10413,ADS,Banco de Dados,6.8,5.7,6.1,6,Reprovado
+A10414,ADS,Redes,"7,539049313335934","6,581992986615571",7.0,10,Aprovado
+A10415,ADS,Matemática,8.020046109751924 ,4.1,5.7,22,Reprovado
+A10416,ADS,Banco de Dados,2.6,3.5,3.2,12,Reprovado
+A10417,Eng. Computação,Algoritmos,8.1,5.2,6.3,9,Reprovado
+A10418,ADS,Redes,7.3,5.9,6.5 ,14,Reprovado
+A10419,GTI,Banco de Dados,5.2,"5,095854107757234",5.1,20,Trancado
+A10420,ADS,Banco de Dados,"9,076794713531166",6.2,7.3,6,Aprovado
+A10421,ADS,Redes,8.5,1.3,4.1,5,Reprovado
+A10422,Eng. Computação,POO,6.1,10.0,"8,4",24,Reprovado
+A10423,ADS,Banco de Dados,2.4,4.3,"3,5",11,Reprovado
+A10424,Eng. Computação,Mobile,6.4,3.5,4.6,2,Reprovado
+A10425,ADS,Matemática,"4,502740368005587",8.5,6.9 ,15,Reprovado
+A10426,GTI,POO,2.1,3.4,2.9,19,Reprovado
+A10427,Eng. Computação,Banco de Dados,7.7,6.4,"6,9",8,Reprovado
+A10428,ADS,POO,9.6,3.4,5.9,9,Reprovado
+A10429,ADS,Algoritmos,6.3,5.331444756500921 ,5.7,12,Reprovado
+A10430,DS,POO,"7,018453762080793",5.4,6.0,7,Reprovado
+A10431,ADS,Redes,9.2,4.3,6.3,5,Reprovado
+A10432,DS,Banco de Dados,6.9,"7,925153870940705",7.5,2,Aprovado
+A10433,ADS,POO,5.3,9.1,7.6,11,Reprovado
+A10434,ADS,Mobile,2.0,"4,316221856121154",3.4,8,Reprovado
+A10435,ADS,Algoritmos,8.1,6.287593368235658 ,7.0,8,Aprovado
+A10436,Eng. Computação,Algoritmos,7.3,"3,095882547807587",4.8,10,Reprovado
+A10437,ADS,POO,8.4,6.2,7.1,5,Aprovado
+A10438,ADS,Redes,1.6,"7,806310880446239",5.3,1,Reprovado
+A10439,GTI,Algoritmos,10.0,6.2,7.7,6,Aprovado
+A10440,ADS,POO,4.9,4.8,4.8,8,Reprovado
+A10441,ADS,POO,"8,685143777289024",5.4,6.7,24,Reprovado
+A10442,ADS,Algoritmos,2.7,4.9,4.0,18,Reprovado
+A10443,DS,POO,"4,95044567206518",5.5,5.3,17,Reprovado
+A10444,GTI,POO,5.4,4.6,4.9,11,Reprovado
+A10445,ADS,Matemática,4.5,"6,380645903310866",5.6,20,Reprovado
+A10446,ADS,Mobile,4.9,3.4,4.0,10,Reprovado
+A10447,GTI,POO,9.7,0.0,3.9,9,Reprovado
+A10448,DS,Matemática,5.8,8.3,7.3,22,Reprovado
+A10449,ADS,Matemática,10.0,"5,87182564736506",7.5,2,Aprovado
+A10450,ADS,POO,8.6,6.3,7.2,11,Reprovado
+A10451,ADS,Redes,2.5,4.4,3.6,3,Reprovado
+A10452,DS,Algoritmos,5.8,5.1,5.4,9,Reprovado
+A10453,Eng. Computação,Matemática,5.7,3.7,4.5,1,Reprovado
+A10454,ADS,Matemática,"4,606699037682452",8.6,7.0,11,Reprovado
+A10455,ADS,Redes,8.9,4.9,6.5,10,Reprovado
+A10456,ADS,Banco de Dados,8.2,2.6,4.9,13,Reprovado
+A10457,ADS,Redes,10.0,7.5,8.5,14,Reprovado
+A10458,ADS,Banco de Dados,5.6,8.5,7.3,13,Reprovado
+A10459,Eng. Computação,Banco de Dados,7.4,5.6,6.3,11,Reprovado
+A10460,ADS,Redes,5.8,9.3,7.9,1,Aprovado
+A10461,DS,Mobile,5.7,6.6,6.3,22,Reprovado
+A10462,ADS,Redes,8.122357289316518 ,5.7,6.7,1,Reprovado
+A10463,DS,Matemática,10.0,5.8,7.5,0,Aprovado
+A10464,GTI,Algoritmos,8.5,7.1,7.6,19,Reprovado
+A10465,ADS,Redes,8.3,8.4,"8,3",14,Reprovado
+A10466,Eng. Computação,Mobile,"6,382297121091689",7.1,6.8,21,Reprovado
+A10467,ADS,Redes,8.2,6.6,"7,2",9,Aprovado
+A10468,GTI,Mobile,8.9,6.2,7.2,19,Reprovado
+A10469,Eng. Computação,Algoritmos,"4,782513425880906",7.5,6.4,0,Reprovado
+A10470,ADS,POO,6.6,4.6,5.4,0,Reprovado
+A10471,GTI,Mobile,5.9,2.7,3.9,24,Reprovado
+A10472,DS,Mobile,5.2,6.408093021443382 ,5.9,0,Reprovado
+A10473,Eng. Computação,Matemática,8.5,"3,773626885446858",5.7,22,Reprovado
+A10474,DS,Mobile,6.0,2.7,4.0,10,Reprovado
+A10475,ADS,Algoritmos,7.4,9.561387572709432 ,"8,7",11,Reprovado
+A10476,DS,Banco de Dados,7.5,0.0 ,3.0,14,Reprovado
+A10477,DS,Mobile,6.0,7.4,6.8,13,Reprovado
+A10478,DS,Algoritmos,3.6,3.6,3.6,22,Reprovado
+A10479,Eng. Computação,Matemática,5.8,"4,234302842688036",4.9,0,Reprovado
+A10480,ADS,Matemática,7.6,7.0,"7,2",0,Aprovado
+A10481,ADS,POO,7.1,10.0,8.8,5,Aprovado
+A10482,GTI,Mobile,2.6,7.5,5.6,23,Reprovado
+A10483,Eng. Computação,Banco de Dados,8.1,3.8,5.5,22,Reprovado
+A10484,GTI,Algoritmos,5.4,5.9,5.7 ,21,Reprovado
+A10485,Eng. Computação,POO,7.6,5.4,6.3,2,Reprovado
+A10486,Eng. Computação,Banco de Dados,8.1,1.4,"4,1",13,Reprovado
+A10487,Eng. Computação,POO,7.4,6.1,6.7,22,Reprovado
+A10488,Eng. Computação,Banco de Dados,10.0,4.5,6.7,5,Reprovado
+A10489,Eng. Computação,Redes,8.5,7.6,8.0,7,Aprovado
+A10490,DS,Redes,5.6,5.3,5.4,19,Reprovado
+A10491,DS,Redes,"5,797026393249695",9.4,8.0,24,Reprovado
+A10492,ADS,POO,6.3,6.8,6.6,14,Reprovado
+A10493,ADS,Redes,"5,79702400707908",6.5,6.2,16,Reprovado
+A10494,ADS,Algoritmos,7.2,10.0,8.9,22,Reprovado
+A10495,ADS,Algoritmos,4.2,6.7,"5,7",8,Reprovado
+A10496,ADS,Redes,9.3,9.6,9.5,15,Reprovado
+A10497,Eng. Computação,Banco de Dados,6.6,3.5,4.7,0,Reprovado
+A10498,DS,Banco de Dados,9.2,1.6,4.6,15,Reprovado
+A10499,ADS,POO,4.1,6.5,5.5,18,Reprovado
+A10500,DS,Banco de Dados,4.1,"8,641168414521836","6,8",22,Reprovado
+A10501,GTI,Mobile,8.7,"3,477223494335322",5.5,8,Reprovado
+A10502,ADS,Banco de Dados,5.2,5.0,5.1,16,Reprovado
+A10503,Eng. Computação,Algoritmos,4.5,2.3,3.2,5,Reprovado
+A10504,ADS,Matemática,8.8,5.9,7.1,13,Reprovado
+A10505,DS,Banco de Dados,4.9,"5,9734674178064155",5.5,17,Reprovado
+A10506,ADS,POO,"6,4624763629033035",7.3,7.0,20,Reprovado
+A10507,GTI,Banco de Dados,"5,4170321721772545",4.9,5.1,13,Reprovado
+A10508,DS,POO,"8,015400736898814",5.4,6.5,22,Reprovado
+A10509,ADS,Mobile,7.0,7.4,7.2,6,Aprovado
+A10510,Eng. Computação,Redes,8.3,6.5,7.2,9,Aprovado
+A10511,ADS,Mobile,4.1,6.9,5.8 ,15,Reprovado
+A10512,GTI,Algoritmos,7.0,7.9,7.5,6,Aprovado
+A10513,Eng. Computação,Matemática,"6,6830921479908065",7.6,7.2,19,Reprovado
+A10514,Eng. Computação,Mobile,"5,0020939373849505",10.0,8.0,5,Aprovado
+A10515,ADS,Mobile,4.4,7.0,6.0,5,Reprovado
+A10516,ADS,Algoritmos,6.3,7.0,6.7,6,Reprovado
+A10517,DS,Algoritmos,5.9,5.3,5.6,24,Reprovado
+A10518,ADS,Redes,8.9,6.1,7.2,21,Trancado
+A10519,GTI,Redes,8.2,3.2,5.2,16,Reprovado
+A10520,DS,Banco de Dados,5.1,4.6,4.8,7,Reprovado
+A10521,GTI,POO,6.0,8.5,7.5,1,Aprovado
+A10522,ADS,Algoritmos,"7,593989867031276",2.6,4.6,18,Reprovado
+A10523,GTI,Mobile,7.8,9.1,8.6,20,Reprovado
+A10524,Eng. Computação,Mobile,8.9,5.3,6.8,21,Reprovado
+A10525,GTI,Redes,"6,372326706741437",4.0,4.9,6,Trancado
+A10526,DS,POO,6.8,5.4,"6,0",11,Reprovado
+A10527,ADS,Algoritmos,2.9,7.3,5.6,19,Reprovado
+A10528,ADS,Redes,4.3,6.2,"5,4",2,Reprovado
+A10529,ADS,POO,"8,322255692365987",10.0,"9,3",24,Reprovado
+A10530,GTI,Algoritmos,4.3,7.0,5.9,3,Reprovado
+A10531,ADS,Mobile,3.1,7.1,5.5,24,Reprovado
+A10532,GTI,Mobile,8.0,7.2,7.5,24,Reprovado
+A10533,DS,Redes,5.7,6.3,6.1,10,Reprovado
+A10534,DS,POO,4.9,5.5,5.2,11,Reprovado
+A10535,ADS,Mobile,3.5,6.2,5.2,18,Reprovado
+A10536,DS,POO,3.6,6.5,5.3,18,Reprovado
+A10537,DS,Redes,5.6,5.9,5.8,10,Reprovado
+A10538,ADS,Banco de Dados,6.2,8.8,7.7,12,Reprovado
+A10539,ADS,POO,9.0,"8,53706362789471",8.7,23,Reprovado
+A10540,GTI,Matemática,"6,23388057002713",3.4,4.5,0,Reprovado
+A10541,ADS,POO,5.858403662884811 ,8.1,7.2,5,Aprovado
+A10542,ADS,Redes,5.9,6.0,5.9,21,Reprovado
+A10543,ADS,Matemática,2.0,5.3,4.0 ,24,Reprovado
+A10544,ADS,Banco de Dados,5.5,7.6,6.7,15,Reprovado
+A10545,Eng. Computação,Mobile,7.8,6.6,7.1,1,Aprovado
+A10546,DS,Algoritmos,6.7,"4,027820100990974","5,1",13,Reprovado
+A10547,GTI,Redes,8.1,7.8,"7,9",23,Reprovado
+A10548,Eng. Computação,Algoritmos,8.7,5.8,"7,0",22,Reprovado
+A10549,GTI,Banco de Dados,3.2,7.7,"5,9",17,Reprovado
+A10550,DS,Matemática,"5,199226340212353",6.0,5.7,16,Reprovado
+A10551,ADS,Banco de Dados,8.5,"7,769116569165792",8.1,19,Reprovado
+A10552,GTI,POO,6.7,8.1,7.5,17,Reprovado
+A10553,ADS,Algoritmos,6.2,8.6,7.7,18,Reprovado
+A10554,ADS,Algoritmos,8.6,4.7,6.2,14,Reprovado
+A10555,ADS,Banco de Dados,4.9,10.0,8.0,1,Aprovado
+A10556,ADS,Matemática,"5,036944270908755",5.7,5.4,24,Reprovado
+A10557,ADS,Algoritmos,4.9,3.4,4.0,3,Reprovado
+A10558,ADS,Mobile,3.8,6.4,5.4,0,Reprovado
+A10559,DS,Banco de Dados,6.1,5.6,5.8,7,Reprovado
+A10560,ADS,POO,6.9,4.7,5.6,19,Reprovado
+A10561,DS,POO,4.4,6.1,5.4,13,Reprovado
+A10562,DS,POO,6.3,"7,654167966623816",7.1,10,Aprovado
+A10563,GTI,Algoritmos,"5,304185712587087",6.7,"6,2",23,Reprovado
+A10564,ADS,Banco de Dados,6.3,8.9,7.9,23,Reprovado
+A10565,Eng. Computação,POO,9.4,5.7,"7,2",24,Reprovado
+A10566,ADS,Banco de Dados,"6,672163338172007",6.9,6.8,13,Trancado
+A10567,DS,Algoritmos,6.7,6.5,6.6,-5,Reprovado
+A10568,GTI,Mobile,10.0,10.0,10.0,9,Aprovado
+A10569,ADS,Mobile,5.5,3.8,4.5,6,Reprovado
+A10570,ADS,Mobile,7.7,"4,756514746286549",5.9,15,Reprovado
+A10571,ADS,Algoritmos,5.4,10.0,8.2 ,3,Aprovado
+A10572,Eng. Computação,POO,8.1,5.5,6.5,11,Reprovado
+A10573,DS,Algoritmos,4.7,2.5,3.4 ,11,Reprovado
+A10574,Eng. Computação,Banco de Dados,5.8,"10,0",8.3,1,Aprovado
+A10575,ADS,Mobile,5.4,3.9,4.5,5,Reprovado
+A10576,ADS,Banco de Dados,4.4,"6,216291873479894",5.5,19,Reprovado
+A10577,ADS,Algoritmos,2.2,8.4,5.9,14,Reprovado
+A10578,Eng. Computação,Redes,7.3,7.981936154640804 ,7.7,-3,Aprovado
+A10579,ADS,Redes,5.2,4.073179953142362 ,4.5,21,Reprovado
+A10580,ADS,Algoritmos,6.0,10.0,8.4 ,15,Reprovado
+A10581,Eng. Computação,POO,6.2,7.159617013630984 ,6.8,23,Reprovado
+A10582,GTI,Matemática,"3,568263710786921",5.9,5.0,2,Reprovado
+A10583,GTI,Banco de Dados,5.7,3.8,4.6,0,Reprovado
+A10584,ADS,Algoritmos,2.9,7.1,5.4,20,Reprovado
+A10585,GTI,Algoritmos,5.6,9.3,7.8,11,Reprovado
+A10586,Eng. Computação,Redes,9.5,5.4,7.0,14,Reprovado
+A10587,GTI,Mobile,5.4,2.1,3.5,18,Reprovado
+A10588,ADS,Mobile,4.2,4.5,4.4,5,Reprovado
+A10589,ADS,Matemática,5.5,"5,268709991718444",5.4,18,Reprovado
+A10590,ADS,POO,9.6,2.6,"5,4",16,Reprovado
+A10591,GTI,POO,5.6,7.2,6.5,8,Reprovado
+A10592,ADS,Matemática,3.4,7.6,5.9,20,Reprovado
+A10593,GTI,POO,2.848698409607967 ,4.4,3.8,12,Reprovado
+A10594,GTI,Redes,"5,689607367099004",7.9,7.0,14,Reprovado
+A10595,DS,Algoritmos,8.1,4.0,5.6,15,Reprovado
+A10596,ADS,POO,7.4,3.1,"4,8",12,Reprovado
+A10597,DS,Redes,8.7,3.7,5.7,1,Trancado
+A10598,GTI,Banco de Dados,7.8,4.2,"5,6",1,Reprovado
+A10599,ADS,Algoritmos,6.5,"7,7353876959339365","7,3",10,Aprovado
+A10600,Eng. Computação,Matemática,1.2,7.2,4.8,24,Reprovado
+A10601,ADS,Banco de Dados,9.3,4.0,6.1,15,Reprovado
+A10602,GTI,Mobile,3.6,4.5,4.1,16,Reprovado
+A10603,ADS,Mobile,10.0,9.9,"9,9",2,Aprovado
+A10604,GTI,Algoritmos,5.0,7.8,6.7,22,Reprovado
+A10605,GTI,POO,5.0,2.9,3.8,0,Reprovado
+A10606,ADS,Algoritmos,5.4,8.9,7.5,17,Reprovado
+A10607,DS,POO,6.5,10.0,8.6,13,Reprovado
+A10608,GTI,Matemática,3.8,5.9,5.1,21,Trancado
+A10609,DS,Mobile,4.7,5.3,5.1,8,Reprovado
+A10610,ADS,Algoritmos,"8,368989588109349",5.1,6.4,8,Reprovado
+A10611,ADS,Algoritmos,9.2,5.3,6.9 ,11,Reprovado
+A10612,DS,Matemática,4.3,7.7,6.3,23,Reprovado
+A10613,ADS,POO,7.2,4.6,5.6,2,Reprovado
+A10614,DS,Mobile,5.5,7.7,6.8,1,Reprovado
+A10615,ADS,Mobile,7.5,6.0,6.6,0,Reprovado
+A10616,ADS,POO,"4,705111425922845",4.7,4.7,8,Reprovado
+A10617,DS,Matemática,"7,962248323196047",6.8,7.3,12,Reprovado
+A10618,DS,POO,"6,233458037098033",5.5,5.8,20,Reprovado
+A10619,GTI,Matemática,5.5,"4,5952901404574575",5.0,15,Reprovado
+A10620,Eng. Computação,POO,6.4,"5,936822129790341",6.1,18,Reprovado
+A10621,DS,Mobile,9.4,"5,966898791112461",7.3,9,Aprovado
+A10622,GTI,Mobile,6.3,4.9502897653970175 ,5.5,-2,Reprovado
+A10623,Eng. Computação,Algoritmos,7.1,4.2,5.4,13,Reprovado
+A10624,DS,Matemática,6.7,6.2,6.4,14,Reprovado
+A10625,GTI,Mobile,6.7,6.5,6.5,2,Reprovado
+A10626,ADS,Matemática,8.9,6.9,7.7 ,8,Aprovado
+A10627,Eng. Computação,Matemática,8.2,6.8,7.4,0,Aprovado
+A10628,ADS,Banco de Dados,3.8,8.9,6.9,0,Reprovado
+A10629,ADS,Banco de Dados,7.6,3.6,5.2,18,Reprovado
+A10630,ADS,POO,9.7,9.5,9.6,5,Aprovado
+A10631,ADS,Matemática,6.0,3.1,4.2,10,Reprovado
+A10632,ADS,POO,"8,209400869772537",8.7,"8,5",17,Reprovado
+A10633,DS,POO,1.0,7.1,4.6,13,Reprovado
+A10634,DS,Algoritmos,4.6,4.9,4.7,15,Reprovado
+A10635,ADS,Banco de Dados,10.0,0.6750591246024884 ,4.4,0,Reprovado
+A10636,DS,Banco de Dados,8.0,2.7,4.8,23,Reprovado
+A10637,GTI,Mobile,6.9,4.6,"5,5",9,Reprovado
+A10638,GTI,Banco de Dados,10.0,7.0,8.2,24,Reprovado
+A10639,ADS,Mobile,4.3,4.8,4.6 ,9,Reprovado
+A10640,Eng. Computação,Matemática,9.0,5.9,7.2,12,Reprovado
+A10641,ADS,Algoritmos,4.8,5.0,4.9,0,Reprovado
+A10642,ADS,POO,6.7,6.4,"6,5",2,Reprovado
+A10643,ADS,POO,3.250298079550819 ,3.0,3.1,13,Reprovado
+A10644,DS,Matemática,5.7,5.4,"5,5",20,Reprovado
+A10645,DS,Mobile,9.1,7.2,8.0,15,Reprovado
+A10646,ADS,Redes,5.5,10.0,8.2,22,Reprovado
+A10647,ADS,Matemática,7.5,7.9,7.7,19,Reprovado
+A10648,DS,Mobile,5.5,5.6,5.6,5,Reprovado
+A10649,DS,Matemática,7.4,4.6,5.7,0,Reprovado
+A10650,ADS,Algoritmos,8.0,7.0,7.4,19,Reprovado
+A10651,DS,Matemática,5.1,4.2,4.6,23,Reprovado
+A10652,Eng. Computação,Matemática,4.8,6.3,5.7,4,Reprovado
+A10653,ADS,Banco de Dados,5.7,6.696767156268068 ,6.3,7,Reprovado
+A10654,GTI,Mobile,5.7,"5,565908904575794",5.6,11,Reprovado
+A10655,ADS,Algoritmos,2.5,8.1,5.9,0,Reprovado
+A10656,DS,POO,7.2,5.8,6.3,12,Reprovado
+A10657,ADS,Redes,7.3,5.0,5.9,8,Reprovado
+A10658,ADS,Redes,2.9,4.9,"4,1",19,Reprovado
+A10659,DS,Mobile,8.2,"3,1591050598518087","5,2",24,Reprovado
+A10660,DS,Matemática,5.7,"2,8721787288092266",4.0,23,Reprovado
+A10661,ADS,Banco de Dados,7.2,7.3,"7,3",7,Aprovado
+A10662,ADS,Matemática,6.0,9.3,"8,0",12,Reprovado
+A10663,ADS,Mobile,7.152104746305922 ,10.0,8.9,1,Aprovado
+A10664,GTI,Redes,6.7,8.5,7.8,14,Reprovado
+A10665,DS,Redes,"8,255733107087392",7.1,7.6,13,Reprovado
+A10666,GTI,Matemática,6.5,6.7,6.6,18,Reprovado
+A10667,GTI,Matemática,8.0,8.9,"8,5",8,Aprovado
+A10668,DS,Matemática,9.3,5.2,6.9,18,Reprovado
+A10669,GTI,POO,6.3,10.0,8.5,13,Reprovado
+A10670,GTI,Banco de Dados,6.0,5.9,5.9,7,Reprovado
+A10671,GTI,Banco de Dados,7.6,6.6,7.0,4,Aprovado
+A10672,Eng. Computação,Redes,2.4,6.1,4.6,6,Trancado
+A10673,ADS,Redes,4.8,8.5,7.0,3,Aprovado
+A10674,ADS,Mobile,4.7,6.0,5.5,7,Reprovado
+A10675,ADS,Mobile,"7,60432082976171","6,890588565721167",7.2,3,Aprovado
+A10676,DS,POO,6.8,"3,3176545700128717",4.7,20,Reprovado
+A10677,ADS,Redes,9.0,"5,574080064709313","7,0",0,Aprovado
+A10678,ADS,Mobile,8.916289858652387 ,8.3,8.5,7,Aprovado
+A10679,Eng. Computação,POO,2.6,4.1,3.5,6,Reprovado
+A10680,Eng. Computação,Banco de Dados,3.1,5.9,4.8,10,Reprovado
+A10681,Eng. Computação,Redes,6.6,5.9,6.2,20,Reprovado
+A10682,ADS,Algoritmos,3.4,"4,714284480514392",4.2,15,Reprovado
+A10683,Eng. Computação,Redes,2.6,8.2,6.0,21,Reprovado
+A10684,ADS,Mobile,5.0,7.1,6.3,16,Reprovado
+A10685,ADS,Redes,2.3,8.0,"5,7",23,Reprovado
+A10686,ADS,Algoritmos,4.4,8.3,6.8,24,Reprovado
+A10687,GTI,Redes,7.9,"6,068254115788487",6.8,4,Reprovado
+A10688,ADS,Mobile,5.5,"9,46271564453084",7.9 ,6,Aprovado
+A10689,GTI,Banco de Dados,9.5,3.3,"5,8",9,Reprovado
+A10690,DS,Mobile,"5,363683532122671",5.7,5.5,12,Trancado
+A10691,ADS,POO,7.6,6.3,6.8,19,Reprovado
+A10692,ADS,Mobile,5.4,2.2,3.5,14,Reprovado
+A10693,ADS,POO,6.1,9.1,7.9,5,Aprovado
+A10694,Eng. Computação,Redes,"5,7154624753814325",4.1,"4,7",1,Reprovado
+A10695,ADS,POO,"7,612328873101639",6.1,6.7,3,Reprovado
+A10696,ADS,Matemática,7.9,7.7,7.8,20,Reprovado
+A10697,ADS,Redes,"10,0",10.0,10.0,13,Reprovado
+A10698,Eng. Computação,POO,6.5,2.3,4.0,24,Reprovado
+A10699,ADS,Mobile,7.6,7.3,7.4,24,Reprovado
+A10700,ADS,Algoritmos,4.4,5.4,5.0,23,Reprovado
+A10701,ADS,Redes,"7,875356718952562",7.425520502879135 ,7.6,14,Reprovado
+A10702,Eng. Computação,POO,6.6,8.1,"7,5",13,Reprovado
+A10703,ADS,Algoritmos,1.2,6.920106226020584 ,4.6,3,Reprovado
+A10704,GTI,POO,4.8,6.2,5.6,5,Reprovado
+A10705,ADS,POO,2.4,3.7,3.1,6,Reprovado
+A10706,Eng. Computação,POO,"5,0232259084702715",3.8,4.3,12,Reprovado
+A10707,GTI,Mobile,"7,113164633448787",7.8,7.5,16,Reprovado
+A10708,GTI,POO,5.9,4.1,4.8,16,Reprovado
+A10709,ADS,Algoritmos,7.7,6.9,7.3 ,3,Aprovado
+A10710,ADS,Matemática,1.8,"8,86498439247234","6,0",18,Reprovado
+A10711,ADS,POO,8.4,3.1,5.3,19,Reprovado
+A10712,GTI,Matemática,6.991164580971565 ,8.9,8.1,12,Reprovado
+A10713,Eng. Computação,Banco de Dados,"3,9700134843319423",8.8,6.9,8,Reprovado
+A10714,ADS,Redes,6.5,6.8,6.6,1,Reprovado
+A10715,Eng. Computação,Mobile,10.0,4.6,6.8,19,Reprovado
+A10716,ADS,Banco de Dados,"9,43045933989001",7.2,8.1,22,Reprovado
+A10717,Eng. Computação,Banco de Dados,9.9,"5,608400261339855",7.3,17,Reprovado
+A10718,ADS,Algoritmos,6.1,4.4,5.1,23,Reprovado
+A10719,ADS,Algoritmos,8.772932857178905 ,6.3,"7,3",19,Reprovado
+A10720,GTI,Matemática,9.1,4.1,6.1,24,Reprovado
+A10721,DS,Matemática,4.4,3.4,3.8,16,Reprovado
+A10722,DS,Mobile,9.1,4.8,6.5,6,Reprovado
+A10723,GTI,Mobile,8.6,2.2,4.8,16,Reprovado
+A10724,GTI,Redes,5.2,8.6,7.2,9,Aprovado
+A10725,ADS,POO,6.7,7.1,7.0,24,Reprovado
+A10726,ADS,Mobile,9.2,4.1,6.2,13,Reprovado
+A10727,ADS,Mobile,6.4,4.9,"5,5",11,Reprovado
+A10728,GTI,Matemática,8.3,7.7,7.9,11,Reprovado
+A10729,GTI,POO,5.6,"8,800815191323071",7.5,16,Reprovado
+A10730,DS,Redes,"4,310090013449935",6.2,"5,5",18,Reprovado
+A10731,DS,Algoritmos,4.101841625739182 ,5.4,4.9,22,Reprovado
+A10732,ADS,Redes,"5,937476751326565",2.4,3.8,13,Reprovado
+A10733,DS,POO,7.4,"5,292838576110737",6.1,16,Reprovado
+A10734,ADS,Algoritmos,3.0,3.5,3.3 ,14,Reprovado
+A10735,DS,Algoritmos,10.0,3.4,6.1,20,Reprovado
+A10736,ADS,Algoritmos,8.6,8.712708187490104 ,8.7,5,Aprovado
+A10737,DS,Redes,7.5,"5,742453309499083",6.5,18,Reprovado
+A10738,GTI,Matemática,8.1,6.3,7.0,21,Reprovado
+A10739,ADS,POO,5.2,6.9,6.2,19,Reprovado
+A10740,DS,Redes,3.5,5.6,4.8,5,Reprovado
+A10741,ADS,Redes,7.3,6.1,6.6,5,Reprovado
+A10742,ADS,Banco de Dados,8.6,6.0,7.1,3,Aprovado
+A10743,GTI,Mobile,5.5,5.1,5.2,0,Reprovado
+A10744,DS,Redes,4.6,6.6,5.8,18,Reprovado
+A10745,ADS,Banco de Dados,5.4,5.8,5.6,10,Reprovado
+A10746,ADS,Matemática,7.5,6.2,6.7,6,Reprovado
+A10747,GTI,Matemática,7.7,6.0,6.7,1,Reprovado
+A10748,GTI,POO,10.0,10.0,10.0,3,Aprovado
+A10749,ADS,Banco de Dados,7.4,8.2,7.9,5,Aprovado
+A10750,Eng. Computação,Redes,4.8,7.7,6.6,4,Reprovado
+A10751,GTI,POO,5.9,7.0,6.6,21,Reprovado
+A10752,ADS,Banco de Dados,4.4,6.9,5.9,20,Reprovado
+A10753,ADS,Redes,8.7,5.4,6.7,8,Reprovado
+A10754,GTI,POO,4.3,8.5,6.8,10,Reprovado
+A10755,DS,POO,5.4,6.7,6.2,17,Reprovado
+A10756,ADS,Mobile,7.5,7.3,7.4,19,Reprovado
+A10757,Eng. Computação,Matemática,9.7,5.4,7.1,16,Reprovado
+A10758,ADS,Redes,10.0,4.1,"6,5",12,Reprovado
+A10759,GTI,Mobile,3.8,8.5,6.6,22,Reprovado
+A10760,ADS,POO,7.8,6.3,6.9,16,Reprovado
+A10761,Eng. Computação,POO,6.5,4.9,5.5,21,Reprovado
+A10762,DS,Banco de Dados,6.0,6.8,6.5,9,Reprovado
+A10763,ADS,Mobile,5.9,5.8,5.8,24,Reprovado
+A10764,Eng. Computação,Algoritmos,4.0,9.4,7.3,17,Trancado
+A10765,ADS,Redes,9.8,5.2,7.1,16,Trancado
+A10766,DS,Matemática,2.3,"6,982047164735882",5.1,11,Reprovado
+A10767,DS,Mobile,6.2,8.4,7.5,14,Reprovado
+A10768,DS,POO,9.5,"7,443040333265305",8.3,18,Reprovado
+A10769,Eng. Computação,Banco de Dados,7.0,7.192801932979206 ,7.1,21,Reprovado
+A10770,Eng. Computação,Redes,5.2,4.9,5.0,14,Reprovado
+A10771,Eng. Computação,Matemática,5.2,6.3,5.9 ,12,Reprovado
+A10772,ADS,Redes,"8,25861959498739",7.0,7.5,6,Aprovado
+A10773,ADS,Banco de Dados,"5,888465967725777",6.4,6.2,-5,Reprovado
+A10774,GTI,POO,6.4,9.3,8.1,7,Aprovado
+A10775,DS,Matemática,7.7,5.6,6.5,19,Reprovado
+A10776,GTI,Algoritmos,8.4,6.1,7.0,15,Reprovado
+A10777,ADS,Banco de Dados,5.4,10.0,8.2,23,Reprovado
+A10778,DS,Algoritmos,3.8,"7,826562809025938","6,2",22,Reprovado
+A10779,Eng. Computação,Mobile,4.5,3.9,"4,1",10,Reprovado
+A10780,ADS,Redes,"9,261985985718725",7.1,8.0,23,Reprovado
+A10781,ADS,Matemática,6.6,7.7,7.3,4,Aprovado
+A10782,ADS,POO,4.0,"4,23737260220647","4,1",6,Reprovado
+A10783,ADS,Algoritmos,4.6,5.3,5.1,15,Reprovado
+A10784,DS,POO,8.8,3.4,5.6,15,Trancado
+A10785,Eng. Computação,Mobile,6.7,6.6,6.7,19,Reprovado
+A10786,ADS,Algoritmos,3.2,2.4,"2,7",16,Reprovado
+A10787,GTI,POO,"4,2957090553865775",4.3,4.3,18,Reprovado
+A10788,DS,POO,"8,805734228720869",3.0,5.3,14,Reprovado
+A10789,ADS,Mobile,5.4,"6,722776700380924",6.2,24,Reprovado
+A10790,GTI,Banco de Dados,10.0,5.3,7.2,14,Reprovado
+A10791,DS,Matemática,10.0,6.9,8.1,19,Reprovado
+A10792,DS,Mobile,9.5,2.0,5.0,20,Reprovado
+A10793,GTI,Algoritmos,"7,496399560548179",4.3,5.6 ,14,Reprovado
+A10794,DS,Algoritmos,8.6,7.7,"8,1",2,Aprovado
+A10795,ADS,Redes,6.4,3.5,4.6,11,Reprovado
+A10796,ADS,POO,6.4,8.2,7.5,5,Aprovado
+A10797,ADS,Matemática,4.099813330138802 ,5.7,5.0,19,Reprovado
+A10798,ADS,Algoritmos,6.4,4.2,5.1,-4,Reprovado
+A10799,ADS,Banco de Dados,4.0,4.3,"4,2",10,Reprovado
+A10800,ADS,Banco de Dados,6.5,"6,471468667902319",6.5,22,Reprovado
+A10801,DS,Mobile,"4,077882965304199",10.0,7.6,11,Reprovado
+A10802,GTI,Algoritmos,"4,7629362117262",10.0,7.9,6,Aprovado
+A10803,ADS,Matemática,1.4,3.1,2.4,8,Reprovado
+A10804,ADS,Matemática,4.9,7.5,6.5,17,Reprovado
+A10805,GTI,Algoritmos,5.1,9.7,7.8,13,Trancado
+A10806,ADS,Redes,"5,882030420926226",3.3,4.3,3,Reprovado
+A10807,ADS,Redes,8.9,4.6,"6,3",7,Reprovado
+A10808,DS,Redes,6.4,6.6,6.5,15,Reprovado
+A10809,ADS,Algoritmos,8.356193561752832 ,6.1,7.0,3,Aprovado
+A10810,ADS,Mobile,8.4,3.0,5.1,18,Reprovado
+A10811,ADS,Matemática,9.3,7.6,8.3,5,Aprovado
+A10812,ADS,Mobile,"4,688068724712767",7.0,6.0,18,Reprovado
+A10813,Eng. Computação,Mobile,4.1,8.071021243821114 ,6.5,14,Reprovado
+A10814,ADS,Mobile,6.3,7.2,6.8,11,Reprovado
+A10815,GTI,Banco de Dados,4.4,7.2,6.1,11,Reprovado
+A10816,DS,Algoritmos,6.0,6.1,6.1,1,Reprovado
+A10817,ADS,POO,4.6,8.7,7.0 ,8,Aprovado
+A10818,ADS,Algoritmos,4.1,"3,080462737323635",3.5,2,Reprovado
+A10819,DS,Mobile,7.2,3.6,5.0,0,Reprovado
+A10820,Eng. Computação,Banco de Dados,10.0,8.4,"9,0",13,Reprovado
+A10821,ADS,Banco de Dados,6.0,5.4,5.6,12,Trancado
+A10822,ADS,Algoritmos,7.1,4.0,5.2,24,Reprovado
+A10823,DS,POO,"6,629967821755381",7.9,7.4,4,Aprovado
+A10824,ADS,Mobile,"6,431036607593485",7.5,7.1,6,Aprovado
+A10825,ADS,Banco de Dados,9.4,1.6,4.7,13,Reprovado
+A10826,ADS,Mobile,5.9,"7,500637578800502",6.9,15,Reprovado
+A10827,ADS,Mobile,0.0,4.6,2.8 ,17,Reprovado
+A10828,ADS,Matemática,4.7,7.1,6.1,13,Reprovado
+A10829,GTI,Mobile,6.7,5.8,6.2,0,Reprovado
+A10830,DS,Redes,"6,286141929788589",7.4,6.9,5,Reprovado
+A10831,GTI,Matemática,6.0,"5,975876773926026",6.0,20,Reprovado
+A10832,ADS,Mobile,5.5,"3,2559621709217055",4.1,9,Reprovado
+A10833,ADS,Mobile,6.7,2.5,4.1,5,Reprovado
+A10834,DS,POO,10.0,3.0,5.8,1,Reprovado
+A10835,ADS,Matemática,5.8,3.6,4.5,6,Reprovado
+A10836,ADS,Matemática,10.0,"6,964441802523975","8,2",16,Reprovado
+A10837,ADS,POO,7.4,8.1,7.8,23,Reprovado
+A10838,ADS,Redes,5.2,5.3,5.3,13,Reprovado
+A10839,Eng. Computação,Matemática,8.2,4.0,5.7,22,Reprovado
+A10840,GTI,Redes,1.6,6.1,4.3,6,Reprovado
+A10841,ADS,Mobile,6.5,1.7,3.6,21,Reprovado
+A10842,DS,Banco de Dados,7.5,"7,362407617863804",7.4,20,Reprovado
+A10843,ADS,Banco de Dados,"7,562159004652815",5.8,6.5,8,Reprovado
+A10844,ADS,Algoritmos,7.8,6.2,6.8,18,Trancado
+A10845,ADS,Banco de Dados,7.9,4.8,6.1 ,24,Reprovado
+A10846,GTI,Banco de Dados,7.1,"4,627503492857902",5.6,20,Trancado
+A10847,ADS,POO,7.9,2.4,4.6,23,Reprovado
+A10848,ADS,Algoritmos,5.4,"7,909290236026175",6.9,10,Reprovado
+A10849,ADS,Algoritmos,8.9,3.2273051677578244 ,5.5,2,Reprovado
+A10850,ADS,POO,5.579872221356453 ,4.4,4.9,22,Reprovado
+A10851,DS,Banco de Dados,8.8,"3,9147565364919776",5.9,3,Reprovado
+A10852,DS,Banco de Dados,6.5,7.8,"7,3",4,Aprovado
+A10853,DS,Algoritmos,6.9,4.7,5.6,3,Reprovado
+A10854,GTI,Banco de Dados,8.3,"8,119493083286809",8.2,12,Trancado
+A10855,Eng. Computação,Algoritmos,9.5,7.3,8.2,8,Aprovado
+A10856,ADS,Banco de Dados,6.6,3.9,"5,0",22,Reprovado
+A10857,ADS,Mobile,6.9,5.8,"6,2",13,Reprovado
+A10858,ADS,POO,"1,334175377141074",2.3,1.9,15,Reprovado
+A10859,ADS,Matemática,4.8,6.9,6.0,21,Reprovado
+A10860,ADS,Redes,3.5,4.6,4.1,5,Reprovado
+A10861,ADS,Mobile,5.7,3.7,"4,5",9,Trancado
+A10862,ADS,Banco de Dados,"5,164243258818763",5.4,5.3,22,Reprovado
+A10863,GTI,Redes,4.9,5.0,5.0,20,Reprovado
+A10864,Eng. Computação,Matemática,4.4,6.621847136144509 ,5.7,12,Reprovado
+A10865,ADS,Mobile,7.6,"10,0","9,0",2,Aprovado
+A10866,ADS,Matemática,2.9,8.9,6.5,10,Reprovado
+A10867,DS,POO,"4,31797108071014",3.4,3.8,2,Reprovado
+A10868,ADS,Redes,6.6,9.377561328649445 ,8.3,6,Aprovado
+A10869,ADS,Matemática,8.4,6.1,"7,0",9,Aprovado
+A10870,ADS,Redes,4.6,"0,4050787499764592",2.1,0,Reprovado
+A10871,DS,POO,8.6,5.5,6.7 ,3,Reprovado
+A10872,DS,Matemática,1.0,2.6,2.0,7,Reprovado
+A10873,GTI,Mobile,6.5,5.0,5.6,19,Reprovado
+A10874,ADS,Redes,7.1,10.0 ,8.8,16,Reprovado
+A10875,ADS,Matemática,4.5,3.1,3.7,4,Reprovado
+A10876,ADS,POO,3.9,"3,0522507295932937",3.4,16,Reprovado
+A10877,Eng. Computação,Matemática,6.8,5.8,6.2,8,Reprovado
+A10878,GTI,Matemática,6.4,4.201151901191844 ,5.1,7,Reprovado
+A10879,ADS,Mobile,4.9,5.4,5.2,6,Reprovado
+A10880,DS,Banco de Dados,5.9,6.2,"6,1",4,Reprovado
+A10881,ADS,Algoritmos,5.3,2.7,3.8,3,Reprovado
+A10882,Eng. Computação,Banco de Dados,9.0,6.5,7.5,22,Reprovado
+A10883,DS,Banco de Dados,7.9,4.3,"5,7",2,Reprovado
+A10884,ADS,Algoritmos,6.9,8.4,"7,8",7,Aprovado
+A10885,DS,Matemática,10.0,"4,078182450134925",6.4,4,Reprovado
+A10886,GTI,Banco de Dados,8.6,4.4,6.1 ,4,Reprovado
+A10887,ADS,Banco de Dados,9.0,"3,9513324743883964","6,0",16,Reprovado
+A10888,DS,POO,9.7,"5,088539225394708",6.9,14,Reprovado
+A10889,GTI,POO,6.2,2.8,4.2,7,Reprovado
+A10890,ADS,Mobile,4.1,7.1,5.9,6,Reprovado
+A10891,GTI,Redes,2.9,4.8,4.1,16,Reprovado
+A10892,GTI,Matemática,8.0,"7,786145157744518","7,9",11,Reprovado
+A10893,ADS,Mobile,4.6,6.1,5.5 ,3,Reprovado
+A10894,ADS,POO,10.0,9.8,9.9,19,Reprovado
+A10895,GTI,POO,4.8,5.4,5.2,24,Reprovado
+A10896,ADS,Algoritmos,4.5,5.2,4.9,17,Reprovado
+A10897,Eng. Computação,Algoritmos,8.1,7.3,7.6,3,Aprovado
+A10898,ADS,POO,8.1,1.4,4.1,9,Reprovado
+A10899,ADS,Banco de Dados,10.0,4.9,7.0,2,Aprovado
+A10900,ADS,Mobile,"6,000719100346876",5.8,5.9,4,Reprovado
+A10901,GTI,POO,8.8,7.593728945397626 ,8.1,11,Reprovado
+A10902,GTI,Matemática,6.2,8.0,7.3,22,Reprovado
+A10903,ADS,POO,7.591814256645508 ,8.5,8.1,4,Aprovado
+A10904,ADS,Algoritmos,6.1,5.4,5.6,4,Reprovado
+A10905,DS,Mobile,"10,0",4.4,6.6,3,Reprovado
+A10906,ADS,Mobile,10.0,"6,129499899893954",7.7,24,Reprovado
+A10907,ADS,Redes,4.1,5.4,4.9,5,Reprovado
+A10908,ADS,POO,9.1,2.3,5.0,9,Reprovado
+A10909,ADS,Redes,4.6,6.4,5.7,5,Reprovado
+A10910,ADS,Algoritmos,8.8,4.0,5.9,21,Reprovado
+A10911,ADS,Redes,9.8,5.5,7.2,21,Reprovado
+A10912,ADS,Banco de Dados,4.6,"5,365142738271418",5.0,0,Reprovado
+A10913,DS,POO,4.1,"10,0",7.6,15,Reprovado
+A10914,ADS,POO,5.5,8.0,7.0,10,Aprovado
+A10915,DS,Mobile,8.8,7.410113518915377 ,8.0,5,Aprovado
+A10916,DS,Redes,7.5,8.1,7.9,19,Reprovado
+A10917,ADS,Mobile,6.0,5.2,5.5,17,Reprovado
+A10918,GTI,Matemática,"7,942112824483503",3.3,5.1,5,Reprovado
+A10919,ADS,Redes,5.9,1.2,"3,1",16,Reprovado
+A10920,ADS,Redes,6.8,7.2,7.0,11,Reprovado
+A10921,Eng. Computação,Algoritmos,7.6,7.2,7.4,16,Reprovado
+A10922,GTI,Redes,7.5,"4,328155668150748","5,6",20,Reprovado
+A10923,Eng. Computação,Mobile,9.9,4.6,6.7,21,Reprovado
+A10924,DS,Matemática,4.1,4.2,4.2,17,Reprovado
+A10925,ADS,Redes,8.4,4.2,"5,9",9,Reprovado
+A10926,ADS,Redes,4.6,"4,890346863561902",4.8,23,Reprovado
+A10927,ADS,POO,5.7,6.7,6.3,19,Reprovado
+A10928,DS,POO,6.2,8.3,7.5,11,Reprovado
+A10929,Eng. Computação,Matemática,5.7,5.9,5.8,3,Reprovado
+A10930,GTI,POO,3.8,8.8,"6,8",9,Reprovado
+A10931,ADS,Banco de Dados,5.6,10.0,8.2,4,Aprovado
+A10932,ADS,POO,"7,044636397146583",6.9,6.9,3,Reprovado
+A10933,DS,Banco de Dados,6.2,5.9,6.0,15,Reprovado
+A10934,Eng. Computação,Matemática,"9,445151060381978",0.9,4.3,4,Reprovado
+A10935,ADS,Banco de Dados,6.3,7.3,6.9,18,Reprovado
+A10936,ADS,Matemática,6.5,6.1,6.3,23,Reprovado
+A10937,ADS,Mobile,6.864811518360158 ,6.2,6.5,5,Reprovado
+A10938,ADS,POO,6.2,5.5,5.8,23,Reprovado
+A10939,DS,Redes,"7,455485085709933",5.0,6.0,20,Reprovado
+A10940,GTI,Algoritmos,5.5,3.8,4.5,6,Reprovado
+A10941,GTI,Redes,4.2,7.8,6.3,9,Trancado
+A10942,ADS,POO,6.4,0.0,2.6,6,Reprovado
+A10943,ADS,Redes,7.3,7.0,"7,1",21,Reprovado
+A10944,ADS,POO,"6,826146571608346",2.7,4.3,13,Reprovado
+A10945,DS,POO,4.7,8.8,7.2,9,Aprovado
+A10946,DS,Redes,6.8,5.3,5.9,19,Reprovado
+A10947,ADS,Banco de Dados,7.9,7.2,7.5,21,Reprovado
+A10948,ADS,Mobile,6.9,6.4,6.6,24,Reprovado
+A10949,ADS,Mobile,5.1,8.6,7.2,10,Aprovado
+A10950,ADS,Mobile,6.7,10.0,8.7,13,Reprovado
+A10951,GTI,Mobile,9.9,8.6,9.1,11,Reprovado
+A10952,GTI,Algoritmos,4.4,"7,360985698747857",6.2,3,Reprovado
+A10953,ADS,Matemática,8.7,5.4,6.7,12,Reprovado
+A10954,DS,POO,2.0,"7,067822832622175",5.0,21,Reprovado
+A10955,GTI,Algoritmos,5.4,8.3,7.1,21,Reprovado
+A10956,ADS,Mobile,"5,639255921720192",5.2,5.3,2,Reprovado
+A10957,ADS,Mobile,8.7,6.2,7.2,12,Reprovado
+A10958,DS,Redes,10.0,"4,322612254916682",6.6,19,Reprovado
+A10959,GTI,Mobile,8.7,7.9,8.2,18,Reprovado
+A10960,ADS,POO,7.5,7.1,7.3,14,Reprovado
+A10961,GTI,Mobile,8.6,3.2,5.4,18,Reprovado
+A10962,ADS,Mobile,3.8,6.7,5.6,19,Reprovado
+A10963,DS,Algoritmos,8.3,5.6,6.7 ,3,Reprovado
+A10964,Eng. Computação,POO,4.3,6.279787702910568 ,5.5,5,Reprovado
+A10965,GTI,Banco de Dados,5.0,4.5,4.7,-2,Reprovado
+A10966,DS,Redes,"7,291348762085248",8.9,8.3,3,Trancado
+A10967,ADS,Banco de Dados,4.0,4.6,4.3,5,Reprovado
+A10968,GTI,Matemática,9.0,10.0,9.6,1,Aprovado
+A10969,DS,Algoritmos,6.5,6.3,"6,4",3,Reprovado
+A10970,GTI,Mobile,3.9,"5,354181107356724",4.8,17,Reprovado
+A10971,GTI,Redes,9.5,6.987684206560061 ,8.0 ,14,Trancado
+A10972,Eng. Computação,Matemática,5.9741242939119115 ,6.7,"6,4",11,Reprovado
+A10973,ADS,Matemática,6.2,10.0,"8,5",7,Aprovado
+A10974,ADS,POO,6.1,7.0,6.6,11,Reprovado
+A10975,DS,Redes,0.7,"1,920389631061627",1.4,8,Reprovado
+A10976,DS,Matemática,9.0,4.6,6.4,6,Reprovado
+A10977,Eng. Computação,Algoritmos,6.6,7.8,7.3,21,Reprovado
+A10978,GTI,Mobile,6.8,5.6,6.1,7,Reprovado
+A10979,DS,Algoritmos,"7,861928298827046",4.9,6.1,19,Reprovado
+A10980,DS,Matemática,5.912667722743697 ,"4,525039309070908",5.1,9,Reprovado
+A10981,ADS,POO,4.3,4.0,4.1,10,Reprovado
+A10982,DS,Banco de Dados,4.6383002073505875 ,6.6,5.8,1,Reprovado
+A10983,ADS,Mobile,8.2,"4,536765107913777",6.0,3,Reprovado
+A10984,ADS,Mobile,"6,476211445038366",9.0,8.0,20,Reprovado
+A10985,ADS,Algoritmos,8.5,"4,17641819782273",5.9,24,Reprovado
+A10986,ADS,Algoritmos,8.9,"3,134773352980724","5,4",20,Reprovado
+A10987,ADS,Algoritmos,8.3,6.0,6.9,24,Reprovado
+A10988,ADS,Matemática,9.0,1.5,"4,5",8,Reprovado
+A10989,ADS,Mobile,5.1,0.7065565093905866 ,2.5,7,Reprovado
+A10990,ADS,Algoritmos,7.7,7.4,"7,5",4,Aprovado
+A10991,GTI,Redes,5.6,6.1,5.9,13,Reprovado
+A10992,DS,Matemática,4.3,1.4,2.6,1,Reprovado
+A10993,Eng. Computação,Matemática,7.4,6.2,6.7,20,Reprovado
+A10994,DS,Redes,8.0,5.4,6.4,16,Trancado
+A10995,ADS,Redes,5.8,2.6,3.9,7,Trancado
+A10996,DS,Matemática,"6,59523931308175",7.6,7.2,1,Aprovado
+A10997,ADS,Mobile,7.9,9.3,8.8,22,Reprovado
+A10998,ADS,Algoritmos,5.3,10.0,8.1,14,Reprovado
+A10999,DS,POO,8.1,6.7,7.3,1,Aprovado
